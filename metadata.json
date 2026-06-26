@@ -1,0 +1,8 @@
+{
+  "name": "Compositos ",
+  "description": "Repositório científico inteligente para resumos de artigos em PDF com IA e simulação micromecânica de compósitos polímeros-metais (ABS + ligas metálicas) com a Lei das Misturas clássica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
